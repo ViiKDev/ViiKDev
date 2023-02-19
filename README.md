@@ -1,6 +1,8 @@
 
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/ViiKDev/count.svg)  
+  <div>
+    ![Visitor Count](https://profile-counter.glitch.me/ViiKDev/count.svg)
+  </div
 </p>
 
 <!--
