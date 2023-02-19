@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/ViiKDev/count.svg)
+```![Visitor Count](https://profile-counter.glitch.me/ViiKDev/count.svg)```
 
 <!--
 **ViiKDev/ViiKDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
