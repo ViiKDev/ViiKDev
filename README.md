@@ -2,7 +2,7 @@
 <p align="center">
   <div>
     ![Visitor Count](https://profile-counter.glitch.me/ViiKDev/count.svg)
-  </div
+  </div>
 </p>
 
 <!--
