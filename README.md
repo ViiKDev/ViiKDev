@@ -1,6 +1,7 @@
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ViiKDev/count.svg" />
+  <!-- Visitor count<br> -->
+  <!-- <img src="https://profile-counter.glitch.me/ViiKDev/count.svg" /> -->
+  Plain Full-Stack Developer☕
 </p>
 
 <!--
