@@ -1,8 +1,8 @@
-<p align="center">
+<h2 align="center">
   <!-- Visitor count<br> -->
   <!-- <img src="https://profile-counter.glitch.me/ViiKDev/count.svg" /> -->
   Plain Full-Stack Developer☕
-</p>
+</h2>
 
 <!--
 **ViiKDev/ViiKDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
