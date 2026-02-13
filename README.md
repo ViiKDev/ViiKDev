@@ -1,7 +1,7 @@
 <h2 align="center">
   <!-- Visitor count<br> -->
   <!-- <img src="https://profile-counter.glitch.me/ViiKDev/count.svg" /> -->
-  Plain Full-Stack Developer☕
+  Mid-Level FullStack Developer☕
 </h2>
 
 <!--
